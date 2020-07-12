@@ -1,5 +1,4 @@
-[![](https://github.com/sourabhgupta385/sourabhgupta385/blob/master/developer.jpg)](https://sourabhgupta.in)
-
+<img src="https://github.com/sourabhgupta385/sourabhgupta385/blob/master/developer.jpg" width="500"/>
  
 ### Hi there 👋
 
