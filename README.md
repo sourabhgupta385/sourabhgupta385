@@ -1,4 +1,4 @@
-<img src="https://github.com/sourabhgupta385/sourabhgupta385/blob/master/developer.jpg" width="500"/>
+<p align="center"><img src="https://github.com/sourabhgupta385/sourabhgupta385/blob/master/developer.jpg" width="500"/></p>
  
 ### Hi there 👋
 
