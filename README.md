@@ -2,7 +2,7 @@
  
 ### Hi there 👋
 
-I'm a DevOps engineer who loves to do automation in all the work. I have experience in automating and optimizing critical deployments on cloud platforms, leveraging configuration management, CI/CD, and DevOps processes. Right now, I'm working with Infosys's client Services Australia to create DevOps solution for their newly starting project, a government portal that offers policies and payments solution in the country.
+I'm a DevOps engineer who loves to do automation in all the work. I have experience in automating and optimizing critical deployments on cloud platforms, leveraging configuration management, CI/CD, and DevOps processes. Right now, I'm working with Oracle to create and manage DevSecOps solution for their product - Oracle Advanced Support Portal(OASP).
 
 ## Wanna Connect?
 
